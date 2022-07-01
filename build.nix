@@ -130,7 +130,7 @@ stdenv.mkDerivation ({
 
   meta = { platforms = dart.meta.platforms; } // (args.meta or { });
 }
-//
+  //
 (removeAttrs args [
   "buildInputs"
   "buildPhase"

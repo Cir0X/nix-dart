@@ -8,9 +8,9 @@ let
       sources = builtins.fromJSON (builtins.readFile ./sources.json);
       matches = x: x.channel == channel && stdenv.hostPlatform.system == x.platform;
     in
-      findFirst matches
-        (throw "unsupported channel/system: ${channel}/${stdenv.hostPlatform.system}")
-        sources;
+    findFirst matches
+      (throw "unsupported channel/system: ${channel}/${stdenv.hostPlatform.system}")
+      sources;
 
 in
 
