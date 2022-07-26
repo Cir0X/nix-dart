@@ -18,4 +18,4 @@ jobs:
       - name: lint
         run: git ls-files *.nix | xargs nix run nixpkgs#nixpkgs-fmt -- --check
       - name: test
-        run: nix flake check
+        run: NIXPKGS_ALLOW_BROKEN=1 nix flake check --impure
