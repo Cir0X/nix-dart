@@ -16,7 +16,7 @@ jobs:
           nix shell nixpkgs#curl nixpkgs#jq -c ./pkgs/dart/update.sh
           rm flake.lock && nix flake update
       - name: test
-        run: nix flake check
+        run: NIXPKGS_ALLOW_BROKEN=1 nix flake check --impure
       - name: push
         run: |
           git config user.name "github-actions"
