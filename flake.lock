@@ -32,15 +32,15 @@
     "pub2nix": {
       "flake": false,
       "locked": {
-        "lastModified": 1594192744,
-        "narHash": "sha256-pDvcXSG1Mh2BpwkqAcNDJzcupV3pIAAtZJLfkiHMAz4=",
-        "owner": "paulyoung",
+        "lastModified": 1658857493,
+        "narHash": "sha256-1JdcFEmjwlr0NGNbB3fgYqaUZPJbaFnxYifNPoL3bio=",
+        "owner": "cir0x",
         "repo": "pub2nix",
-        "rev": "0c7ecca590fcd1616db8c6468f799ffef36c85e9",
+        "rev": "47e6ab2e061e0c7a0ae6a949a8c6b34daf3ac298",
         "type": "github"
       },
       "original": {
-        "owner": "paulyoung",
+        "owner": "cir0x",
         "repo": "pub2nix",
         "type": "github"
       }

@@ -4,7 +4,7 @@
   inputs = {
     flake-utils.url = "github:numtide/flake-utils";
     pub2nix = {
-      url = "github:paulyoung/pub2nix";
+      url = "github:cir0x/pub2nix";
       flake = false;
     };
   };
