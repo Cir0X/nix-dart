@@ -11,7 +11,7 @@ Given a Dart project tree with a `pubspec.yaml` and `pubspec.lock`, run the foll
 a `pub2nix.lock` file.
 
 ```
-nix run github:tadfisher/nix-dart#pub2nix-lock
+nix run github:cir0x/nix-dart#pub2nix-lock
 ```
 
 In the derivation building the project, use `builders.${system}.buildDartPackage` from this flake.
@@ -54,7 +54,7 @@ Up-to-date Dart SDK packages are available in `packages.${system}`: `dart`, `dar
 
 `buildDartPackage`, `pub2nix-lock`, and the Dart SDK packages are also available in `overlay`.
 
-A binary cache is available at [nix-dart.cachix.org](https://nix-dart.cachix.org).
+A binary cache is available at [nix-dart-pub.cachix.org](https://nix-dart-pub.cachix.org).
 
 ## Thanks
 
