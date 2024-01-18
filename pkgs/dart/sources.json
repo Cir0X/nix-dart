@@ -85,44 +85,44 @@
   },
   {
     "channel": "dev",
-    "version": "3.4.0-24.0.dev",
+    "version": "3.4.0-34.0.dev",
     "platform": "aarch64-darwin",
-    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-24.0.dev/sdk/dartsdk-macos-arm64-release.zip",
-    "sha256": "093w06sqifz8psc6rfwilmqlhrmvmckbqsv3b6127hvlv7kabids"
+    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-34.0.dev/sdk/dartsdk-macos-arm64-release.zip",
+    "sha256": "1437xaqm3za6hyjd2vnry0vpjaxi56i718gj9lszg9xmgnqza08j"
   },
   {
     "channel": "dev",
-    "version": "3.4.0-24.0.dev",
+    "version": "3.4.0-34.0.dev",
     "platform": "aarch64-linux",
-    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-24.0.dev/sdk/dartsdk-linux-arm64-release.zip",
-    "sha256": "1z7brcs51mjh6jd7fazav226fhn9m11n2i14bfavsf0k1xh3njb9"
+    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-34.0.dev/sdk/dartsdk-linux-arm64-release.zip",
+    "sha256": "1xs9n6mkd8apf2qc2p4kc7d65mdcsc852cwpsrgl1lsc5ll7wmsy"
   },
   {
     "channel": "dev",
-    "version": "3.4.0-24.0.dev",
+    "version": "3.4.0-34.0.dev",
     "platform": "x86_64-darwin",
-    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-24.0.dev/sdk/dartsdk-macos-x64-release.zip",
-    "sha256": "0kngimzs2zf6cf7m8ggar0p7idn5xqlw16pnbhhpl51w29jq1kgk"
+    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-34.0.dev/sdk/dartsdk-macos-x64-release.zip",
+    "sha256": "1g4ix0a07alzi91k1qglr6jg6ybyq9m74k7hawyfsg6j7h96x2rh"
   },
   {
     "channel": "dev",
-    "version": "3.4.0-24.0.dev",
+    "version": "3.4.0-34.0.dev",
     "platform": "x86_64-linux",
-    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-24.0.dev/sdk/dartsdk-linux-x64-release.zip",
-    "sha256": "1dhs67dp04f3cqzs3x3s96ssx6gzxmqzx04c0js84fmdr3janhvg"
+    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-34.0.dev/sdk/dartsdk-linux-x64-release.zip",
+    "sha256": "04vjqsbv8fqpf76gd2qsmyirhc15x7hpw67l51vp9if55mbqap8v"
   },
   {
     "channel": "dev",
-    "version": "3.4.0-24.0.dev",
+    "version": "3.4.0-34.0.dev",
     "platform": "i686-linux",
-    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-24.0.dev/sdk/dartsdk-linux-ia32-release.zip",
-    "sha256": "15ksvvvm625mmaa47dwavsgi5an53fsyzhd25qvdizm8zj5rxp16"
+    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-34.0.dev/sdk/dartsdk-linux-ia32-release.zip",
+    "sha256": "0kfhrgy05889ng8lz0k87b9d8dia7vk1yflg72ly5g8l6wgb7jmy"
   },
   {
     "channel": "dev",
-    "version": "3.4.0-24.0.dev",
+    "version": "3.4.0-34.0.dev",
     "platform": "armv7l-linux",
-    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-24.0.dev/sdk/dartsdk-linux-arm-release.zip",
-    "sha256": "0y94yr1j43d5f6s8acn78iwvrbxd90696qdv9hk79glcz46l0jl0"
+    "url": "https://storage.googleapis.com/dart-archive/channels/dev/release/3.4.0-34.0.dev/sdk/dartsdk-linux-arm-release.zip",
+    "sha256": "1b4iq8wpy41gm2mhgyrqqb7gg0swf36hqma70m270wq4b94jihl9"
   }
 ]
